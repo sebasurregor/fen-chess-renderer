@@ -2,7 +2,7 @@
 
 ## Author
 - **Sebastian Urrego Ramirez**
-  **Daniela Giraldo Salas**
+- **Daniela Giraldo Salas**
 
 ## Environment and Tools
 - **Operating System:** Windows 11 (development), tested also on Ubuntu 22.04 via WSL  
