@@ -16,7 +16,8 @@
 During the development of this project, I used the following resources for guidance and learning:
 - Microsoft Copilot (AI assistant)  
 - [GitHub repository: elmaestrotic/pypwd](https://github.com/elmaestrotic/pypwd)  
-- [YouTube video tutorial](https://www.youtube.com/watch?v=jx199C9lJ0Y)  
+- [YouTube video tutorial](https://www.youtube.com/watch?v=jx199C9lJ0Y)
+- [GitHub repository: cenekp74/FEN-TO-IMAGE](https://github.com/cenekp74/FEN-TO-IMAGE/tree/main)
 - ChatGPT (to understand some Git and CMD concepts)  
 
 ## How to Run the Project (Ubuntu / WSL)
