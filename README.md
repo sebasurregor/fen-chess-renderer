@@ -1,8 +1,26 @@
-# FEN-TO-IMAGE
-Small script for creating .png images of chess positions from fen notation
+# FEN to Image Chess Renderer
 
-## Pieces and square colors
-You can change the pieces style and square colors by changing files in img folder (every image has to be 100 * 100px)
+## Author
+- **Sebastian Urrego Ramirez**
 
-## Web
-web.py creates simple flask server that can store and send the images ( Ex.: host.com/fen/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR/0)
+## Environment and Tools
+- **Operating System:** Windows 11 (development), tested also on Ubuntu 22.04 via WSL  
+- **Python Version:** 3.11+  
+- **Libraries/Tools Used:**  
+  - Flask (for the web server)  
+  - Pillow (PIL, for image processing)  
+  - Git (for version control)  
+
+## References and Resources
+During the development of this project, I used the following resources for guidance and learning:
+- Microsoft Copilot (AI assistant)  
+- [GitHub repository: elmaestrotic/pypwd](https://github.com/elmaestrotic/pypwd)  
+- [YouTube video tutorial](https://www.youtube.com/watch?v=jx199C9lJ0Y)  
+- ChatGPT (to understand some Git and CMD concepts)  
+
+## How to Run the Project (Ubuntu / WSL)
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sebasurregor/fen-chess-renderer.git
+   cd fen-chess-renderer
